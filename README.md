@@ -8,6 +8,7 @@
 ![Express Badge](https://img.shields.io/badge/express.js-yellow?style=flat-square&logo=express&logoColor=white)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-0095D5?style=flat-square&logo=TypeScript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React.js-deepgreen.svg?style=flat-square&logo=React&logoColor=white)
 
 
 \
