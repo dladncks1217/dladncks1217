@@ -16,6 +16,7 @@
 <br>
 ![React](https://img.shields.io/badge/React.js-deepgreen.svg?style=flat-square&logo=React&logoColor=white)
 ![Next](https://img.shields.io/badge/Next.js-black.svg?style=flat-square&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-red.svg?style=flat-square&logo=Redux&logoColor=white)
 
 \
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dladncks1217)](https://github.com/anuraghazra/github-readme-stats) 
