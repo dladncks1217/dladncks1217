@@ -20,5 +20,4 @@
 ![Redux-Saga](https://img.shields.io/badge/Redux_Saga-grey.svg?style=flat-square&logo=Reduxsaga&logoColor=white)
 
 \
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dladncks1217)](https://github.com/anuraghazra/github-readme-stats) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dladncks1217&layout=compact&title_color=white)
