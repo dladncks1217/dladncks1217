@@ -18,6 +18,8 @@
 ![Next](https://img.shields.io/badge/Next.js-black.svg?style=flat-square&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-red.svg?style=flat-square&logo=Redux&logoColor=white)
 ![Redux-Saga](https://img.shields.io/badge/Redux_Saga-grey.svg?style=flat-square&logo=Reduxsaga&logoColor=white)
+![SCSS](https://img.shields.io/badge/scss-pink.svg?style=flat-square&logo=sass&logoColor=white)
+![gulp](https://img.shields.io/badge/gulp-e7473c.svg?style=flat-square&logo=gulp&logoColor=white)
 
 \
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dladncks1217&layout=compact&title_color=white)
