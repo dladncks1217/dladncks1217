@@ -35,5 +35,6 @@
 </div>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlaxodud1217)](https://solved.ac/dlaxodud1217)
+<img src="http://mazandi.herokuapp.com/api?handle=dlaxodud1217&theme=cold"/>
 \
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dladncks1217&layout=compact&title_color=white)
