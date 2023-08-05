@@ -20,6 +20,11 @@
 ![Mysql](https://img.shields.io/badge/MySQL-purple.svg?style=flat-square&logo=Mysql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-blue.svg?style=flat-square&logo=Sequelize&logoColor=white)
 ![redis](https://img.shields.io/badge/redis-brown.svg?style=flat-square&logo=redis&logoColor=white)
+<br>
+![ec2](https://img.shields.io/badge/EC2-orange.svg?style=flat-square&logo=Amazon-EC2&logoColor=white)
+![nginx](https://img.shields.io/badge/Nginx-green.svg?style=flat-square&logo=Nginx&logoColor=white)
+![docker](https://img.shields.io/badge/Docker-blue.svg?style=flat-square&logo=Docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-red.svg?style=flat-square&logo=Jenkins&logoColor=white)
 ![gcp](https://img.shields.io/badge/GCP-green.svg?style=flat-square&logo=googlecloud&logoColor=white)
 <br>
 
@@ -31,6 +36,5 @@
 </div>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlaxodud1217)](https://solved.ac/dlaxodud1217)
-<img src="http://mazandi.herokuapp.com/api?handle=dlaxodud1217&theme=cold"/>
-\
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dladncks1217&layout=compact&title_color=white)
+
+
