@@ -1,40 +1,15 @@
 
 <div align=center>
-</div>
 
-#### :sparkles: Interest
-![TypeScript Badge](https://img.shields.io/badge/JavaScript-FA7343?style=flat-square&logo=JavaScript&logoColor=white)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-0095D5?style=flat-square&logo=TypeScript&logoColor=white)
-<br>
-![React](https://img.shields.io/badge/React.js-deepgreen.svg?style=flat-square&logo=React&logoColor=white)
-![Next](https://img.shields.io/badge/Next.js-black.svg?style=flat-square&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-red.svg?style=flat-square&logo=Redux&logoColor=white)
-![Redux-Saga](https://img.shields.io/badge/Redux_Saga-grey.svg?style=flat-square&logo=Reduxsaga&logoColor=white)
-![Redux-Toolkit](https://img.shields.io/badge/Redux_Toolkit-blanchedalmond.svg?style=flat-square&logo=Redux&logoColor=black)
-![SCSS](https://img.shields.io/badge/scss-pink.svg?style=flat-square&logo=sass&logoColor=white)
-![gulp](https://img.shields.io/badge/gulp-e7473c.svg?style=flat-square&logo=gulp&logoColor=white)
-<br> 
-![Node.js Badge](https://img.shields.io/badge/Node.js-darkgrey?style=flat-square&logo=Node.js&logoColor=white)
-![Express Badge](https://img.shields.io/badge/express.js-yellow?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
-![Mysql](https://img.shields.io/badge/MySQL-purple.svg?style=flat-square&logo=Mysql&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-blue.svg?style=flat-square&logo=Sequelize&logoColor=white)
-![redis](https://img.shields.io/badge/redis-brown.svg?style=flat-square&logo=redis&logoColor=white)
-<br>
-![ec2](https://img.shields.io/badge/EC2-orange.svg?style=flat-square&logo=Amazon-EC2&logoColor=white)
-![nginx](https://img.shields.io/badge/Nginx-green.svg?style=flat-square&logo=Nginx&logoColor=white)
-![docker](https://img.shields.io/badge/Docker-blue.svg?style=flat-square&logo=Docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-red.svg?style=flat-square&logo=Jenkins&logoColor=white)
-![gcp](https://img.shields.io/badge/GCP-green.svg?style=flat-square&logo=googlecloud&logoColor=white)
-<br>
 
-<div> 
- <a href='https://leetcode.com/dladncks1217'>
-  <img src='https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdladncks1217&logo=leetcode&logoColor=yellow'/></a>
- <a href='https://leetcode.com/dladncks1217'>
-  <img src='https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdladncks1217&logo=leetcode&logoColor=yellow' /></a>
-</div>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdladncks1217&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
+[![dladncks1217's GitHub stats](https://github-readme-stats.vercel.app/api?username=dladncks1217)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlaxodud1217)](https://solved.ac/dlaxodud1217)
 
+
+
+</div>
 
